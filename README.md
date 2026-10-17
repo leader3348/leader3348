@@ -1,18 +1,19 @@
 
+
 <div align="center">
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,100:a855f7&height=200&section=header&text=OMAR RAOUDI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=17&descAlignY=60&animation=fadeIn" alt="Animated purple profile banner" />
+<!-- Animated purple banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,100:a855f7&height=200&section=header&text=OMAR%20RAOUDI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=17&descAlignY=60&animation=fadeIn" alt="Animated purple profile banner" />
 
 <br/>
 
-<a href="https://github.com/OMAR_RAOUDI">
+<a href="https://github.com/OMAR RAOUDI">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing introduction" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Leader3348">
+<a href="https://github.com/leader3348">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="mailto:raoudiomar0@gmail.com">
@@ -20,6 +21,7 @@
 </a>
 
 </div>
+
 ## 👨‍💻 About Me
 
 Hey! I'm **OMAR RAOUDI**, a third-year Computer Science student from **Morocco 🇲🇦**, passionate about software engineering, intelligent systems, and data-driven solutions.
