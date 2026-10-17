@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,100:a855f7&height=200&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=17&descAlignY=60&animation=fadeIn" alt="Animated purple profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,100:a855f7&height=200&section=header&text=OMAR RAOUDI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=17&descAlignY=60&animation=fadeIn" alt="Animated purple profile banner" />
 
 <br/>
 
