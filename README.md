@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/OMAR RAOUDI">
+<a href="https://github.com/OMAR_RAOUDI">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing introduction" />
 </a>
 
