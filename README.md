@@ -93,7 +93,7 @@ Hey! I'm **OMAR RAOUDI**, a third-year Computer Science student from **Morocco �
 
 - 💻 Object-Oriented Programming and Software Design
 - ☕ Java Development and Enterprise Applications
-- 🌐 PHP, ASP.NET and Web Application Development
+- 🌐 PHP, ASP.NET,JAVA and Web Application Development
 - 🧠 Machine Learning algorithms and model evaluation
 - 🔬 Deep Learning and neural networks
 - 🤖 AI applications and intelligent systems
