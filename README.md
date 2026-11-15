@@ -102,13 +102,6 @@ Hey! I'm **OMAR RAOUDI**, a third-year  Computer Science student from **Morocco 
 
 ---
 
-## 🌱 My Approach
-
-I enjoy exploring different areas of computer science, understanding the fundamentals behind technologies, and applying what I learn through practical projects.
-
-My goal is to develop strong software engineering foundations while exploring the possibilities of machine learning, artificial intelligence, and data science.
-
----
 
 
 
