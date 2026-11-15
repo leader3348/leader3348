@@ -31,7 +31,7 @@
 
 ## 🦁 About Me
 
-Hey! I'm **OMAR RAOUDI**, a third-year Math & Computer Science student from **Morocco 🇲🇦**, passionate about software engineering, intelligent systems, and data-driven solutions.
+Hey! I'm **OMAR RAOUDI**, a third-year  Computer Science student from **Morocco 🇲🇦**, passionate about software engineering, intelligent systems, and data-driven solutions.
 
 - 🎓 Studying Computer Science and AI & Data Engineering
 - 💻 Interested in Software Development and Application Engineering
